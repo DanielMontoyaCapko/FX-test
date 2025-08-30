@@ -1,0 +1,47 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="mountainGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B7D7B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5D4E75;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grassGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9ACD32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#228B22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky -->
+  <rect width="1200" height="400" fill="url(#skyGradient)"/>
+  
+  <!-- Mountains -->
+  <polygon points="0,250 200,120 400,180 600,100 800,160 1000,90 1200,140 1200,400 0,400" fill="url(#mountainGradient)"/>
+  
+  <!-- Hills -->
+  <polygon points="0,300 300,220 600,280 900,200 1200,260 1200,400 0,400" fill="url(#grassGradient)"/>
+  
+  <!-- Trees -->
+  <ellipse cx="150" cy="280" rx="25" ry="40" fill="#228B22"/>
+  <rect x="145" y="300" width="10" height="20" fill="#8B4513"/>
+  
+  <ellipse cx="350" cy="290" rx="30" ry="45" fill="#32CD32"/>
+  <rect x="344" y="315" width="12" height="25" fill="#8B4513"/>
+  
+  <ellipse cx="750" cy="270" rx="28" ry="42" fill="#228B22"/>
+  <rect x="744" y="295" width="12" height="22" fill="#8B4513"/>
+  
+  <ellipse cx="950" cy="285" rx="32" ry="48" fill="#32CD32"/>
+  <rect x="943" y="310" width="14" height="28" fill="#8B4513"/>
+  
+  <!-- Clouds -->
+  <ellipse cx="200" cy="80" rx="40" ry="20" fill="white" opacity="0.8"/>
+  <ellipse cx="180" cy="75" rx="25" ry="15" fill="white" opacity="0.8"/>
+  <ellipse cx="220" cy="75" rx="30" ry="18" fill="white" opacity="0.8"/>
+  
+  <ellipse cx="800" cy="60" rx="35" ry="18" fill="white" opacity="0.7"/>
+  <ellipse cx="780" cy="55" rx="20" ry="12" fill="white" opacity="0.7"/>
+  <ellipse cx="820" cy="55" rx="25" ry="15" fill="white" opacity="0.7"/>
+</svg>

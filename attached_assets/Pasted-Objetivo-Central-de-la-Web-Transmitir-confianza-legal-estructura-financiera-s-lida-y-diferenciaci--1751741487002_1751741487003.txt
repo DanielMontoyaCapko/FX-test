@@ -1,0 +1,198 @@
+Objetivo Central de la Web: Transmitir confianza legal, estructura financiera sólida y diferenciación clara, captando inversores conservadores (+50.000€, +45 años) y asesores financieros que buscan productos seguros y tangibles.
+Estilo y Tono: Sobrio, institucional, elegante, pero con un toque humano estratégico. Sin lenguaje promocional vacío; centrado en la estructura, la garantía y la protección.
+Consideraciones Generales para el Desarrollador:
+Diseño: Premium, minimalista, con márgenes amplios y sin ruido visual.
+Colores: Blanco cálido (fondo principal), Azul Marino (#001F3F, para texto principal, CTAs, fondos de sección), Dorado Suave (#DAA520, para acentos, detalles, resaltados).
+Tipografías: Playfair Display (para títulos H1, H2, elementos de branding) y Inter (para cuerpos de texto, descripciones, formularios).
+Imágenes/Videos: Uso exclusivo de material real, profesional y sobrio. NO stock images genéricas.
+Performance: Carga en menos de 2 segundos. Optimización de imágenes (WebP), código limpio, uso de CDN.
+Responsividad: Mobile-First. Impecable en todos los dispositivos y resoluciones.
+Navegación: Intuitiva, simple, fluida.
+SEO: Optimización on-page completa (títulos, meta descripciones, H1s únicos, URLs amigables, velocidad de carga).
+Integraciones: Esencial que todos los formularios se conecten al CRM. Integración de Calendly y DocuSign.
+
+1. MENÚ SUPERIOR (Header Fijo)
+Tipo: Header fijo (sticky) al hacer scroll.
+Elementos:
+Logo: Logo de FundedXam Capital (Proporcionar archivo SVG/PNG alta resolución). Clickeable, lleva a Inicio.
+Menú de Navegación:
+Inicio
+Producto
+Seguridad
+Asesores
+Nosotros
+Contacto
+Botón CTA Principal (Destacado):
+Texto: [Quiero más información]
+Estilo: Botón en color Azul Marino con texto en Blanco, contraste fuerte.
+Acción: Al hacer clic, despliega un popup o ancla a la sección Contacto con el formulario pre-cargado.
+2. HERO PRINCIPAL (Sección Superior - Landing Page Home)
+Diseño: Pantalla completa. Contenido centrado, limpio y de alto impacto visual.
+Visual de Fondo: Video corto, elegante y en bucle. Deberá incluir:
+Secuencias de firmas reales de documentos (sin mostrar datos sensibles).
+Tomas de edificios bancarios o infraestructuras financieras sólidas.
+Clips sutiles de la conversación padre-hijo en un entorno serio y sobrio (no lúdico), transmitiendo la idea de legado y protección familiar a través de decisiones financieras prudentes. Este es el "puente" emocional/institucional.
+Contenido (Sobre el fondo, superpuesto):
+Título (H1): 9% Fijo Anual. Capital Protegido por Contrato Bancario Pignorado.
+Estilo: Fuente Playfair Display, tamaño grande, negrita, color blanco o dorado suave.
+Subtítulo (H2): Producto exclusivo para perfiles conservadores, sin exposición al mercado. Gestionado con estructuras bancarias, firmado digitalmente y auditado legalmente.
+Estilo: Fuente Inter, tamaño legible, color blanco o dorado suave.
+Botón CTA Central (Muy Destacado):
+Texto: [Quiero más información]
+Estilo: Botón grande, color Dorado Suave, texto en Azul Marino. El más visible de la página.
+Acción: Al hacer clic, despliega un popup o ancla a la sección Contacto con el formulario pre-cargado.
+3. SEGURIDAD, LEGALIDAD Y DIFERENCIACIÓN (La Sección Central de Confianza)
+Objetivo: Mostrar que la seguridad no es una promesa, sino una estructura.
+Título (H2): Un Producto Diseñado para Proteger el Capital, No Para Arriesgarlo.
+Subtítulo (P): Desde el primer contacto, mostramos que esto no es una promesa, es una estructura.
+Puntos Clave (Diseño: Íconos + Título + Descripción concisa. Cada punto es un "por qué somos diferentes"):
+Rentabilidad fija del 9% anual, sin volatilidad.
+Capital bloqueado como garantía, sin gestión directa del cliente.
+Contrato bancario pignorado y revisado jurídicamente.
+Custodia en bancos de primer nivel (Emirates NBD, WIO Bank).
+Firma digital con validez jurídica internacional vía DocuSign®.
+Auditoría externa y trazabilidad total del proceso.
+Infografía: Infografía del circuito del capital, desde la firma hasta el vencimiento. (Se proporcionará el diseño o esquema de la infografía).
+Videos de Expertos (si aplica): Espacio para integrar clips cortos con figuras externas (jurídicas, financieras) avalando la estructura. (Se proporcionarán los videos).
+4. DESCARGABLES (Lead Magnet Primario)
+Objetivo: Capturar leads de alta calidad.
+Diseño: Bloque claro, con miniaturas de los documentos (proporcionar).
+Título (H2): Información Completa a Tu Alcance.
+Texto: Accede a la documentación clave para entender la solidez y transparencia de FundedXam Capital.
+Contenido para Descarga (previo registro):
+Dossier Institucional
+Contrato Real Pignorado (Ejemplo)
+Manual Completo del Producto
+Formulario de Registro (Popup o incrustado):
+Campos Obligatorios:
+Nombre Completo
+Email (profesional, validación de formato)
+Teléfono
+Selector (Dropdown o Radio Buttons): Soy... (Opciones: Asesor Financiero, Inversor Particular)
+Mensaje (opcional)
+Conexión: Conexión directa con CRM para el seguimiento del lead.
+Acción: Tras el envío exitoso, activar la descarga automática de los documentos.
+5. CÓMO CONSEGUIMOS EL 9% FIJO ANUAL (El Motor de la Rentabilidad)
+Objetivo: Explicar la fuente de la rentabilidad sin entrar en tecnicismos innecesarios, enfocándose en la diversificación y solidez.
+Título (H2): Cómo Conseguimos el 9% Fijo Anual.
+Subtítulo (P): Una cartera permanente, sin improvisaciones. Nuestra rentabilidad no depende de predicciones, sino de diversificación estructural:
+Elementos Visuales (Iconos + Título + Descripción):
+🏙️ Real Estate Institucional en Dubái
+Alineado con el Plan Urbanístico 2040 (+30% crecimiento proyectado). Precio medio por m² aún 60-70% por debajo de Londres o Nueva York.
+📈 ETFs y Acciones de Asia Emergente
+Mercados sólidos con crecimiento estructural y baja correlación con Occidente.
+💰 Materias Primas: Oro, Plata y Petróleo
+Valor refugio, cobertura frente a inflación y activos geopolíticos.
+🔗 Activos Digitales Regulados (RWA, Tokenización, DeFi)
+Participamos solo en infraestructuras legales y auditadas del sector blockchain.
+🧠 Trading Algorítmico Propio, Auditado
+Optimización de carteras con inteligencia artificial, basada en parámetros matemáticos y control de drawdown.
+Cierre de Sección (P): Esta combinación permite garantizar el 9% sin comprometer el capital. Todo bajo un modelo profesional, permanente y sin especulación.
+6. CALCULADORA DE RENTABILIDAD (Herramienta de Conversión)
+Objetivo: Mostrar el potencial de crecimiento de forma tangible.
+Título (H2): Simula Tu Crecimiento: ¿Qué Ocurre Si Inviertes 50.000€?
+Simulador Interactivo:
+Input 1: Campo para Cantidad a Invertir (Rango: mínimo 50.000€, con slider o input numérico).
+Input 2: Plazo (Slider con opciones: 1 a 5 años).
+Opciones: Checkbox para Con Interés Compuesto / Sin Interés Compuesto.
+Resultados: Mostrar claramente el Capital Final Estimado y los Intereses Generados.
+Botón: [Descargar simulación personalizada en PDF]
+Acción: Al hacer clic, generar un PDF con la simulación actual y descargarla. (Requerirá integración backend).
+7. ¿QUÉ PASA AL FINAL DEL PLAZO? (Fidelización y Flexibilidad)
+Objetivo: Aclarar las opciones post-vencimiento.
+Título (H2): Tu Futuro, Tus Opciones: Al Final del Plazo.
+Texto: Cuando se cumple el vencimiento, tú eliges:
+Opciones (Icono + Texto):
+Retirar el capital e intereses generados.
+Renovar con condiciones preferentes.
+Aplicar interés compuesto.
+Panel Visual: Panel visual con escenarios comparados (Diseño de un gráfico o tabla comparativa simple para ilustrar estas opciones).
+CTA: [Simula tus opciones] (lleva a la Calculadora de Rentabilidad).
+8. CÓMO FUNCIONA (Paso a Paso del Proceso)
+Objetivo: Demostrar la claridad y profesionalidad del proceso.
+Título (H2): Proceso Transparente, Paso a Paso.
+Columnas/Secciones: Dos flujos claros, uno para referidos, otro directo.
+Si vienes recomendado por un asesor:
+Presentación conjunta con tu asesor.
+Firma de NDA + acceso documentación legal.
+Validación perfil inversor y origen de fondos (AML).
+Firma digital del contrato y pignoración.
+Activación de la inversión.
+Acceso a panel privado.
+Si llegas directamente:
+Agenda reunión con nuestro equipo legal-financiero. (Integrar Calendly).
+Revisión personalizada del producto y del contrato.
+Validación legal de perfil (compliance).
+Firma digital + pignoración bancaria.
+Inicio de inversión.
+Acceso al panel de control y escenario de renovación.
+Botón: [Ver ejemplo de contrato firmado real]
+Acción: Abre un PDF de ejemplo de un contrato real (sin datos sensibles).
+9. COMPARATIVA VISUAL
+Objetivo: Posicionar FundedXam Capital claramente superior a alternativas conservadoras.
+Diseño: Tabla comparativa clara y concisa.
+Contenido de la Tabla: | Producto | Rentabilidad | Riesgo | Liquidez | Garantía jurídica | | :-------------------- | :----------- | :----- | :------- | :------------------- | | Depósito tradicional | 2-3 % | Bajo | Alta | Sí | | Fondo conservador | 4-6 % | Medio | Media | Parcial | | FundedXam Capital | 9 % | Nula | Alta | Sí (pignorado) |
+10. ASESOR FINANCIERO: ESTO ES PARA TI (Página Exclusiva para Asesores)
+Objetivo: Profundizar en los beneficios de la colaboración con asesores.
+Título (H1 en esta página): Asesor Financiero: Un Producto Sólido, Fácil de Explicar, Imposible de Ignorar.
+Beneficios Clave (Lista):
+Comisiones justas y sin presión.
+Proceso simple y 100% legal.
+Soporte personalizado y marca seria detrás.
+Ayuda a consolidar tu reputación.
+Testimonio Ampliado:
+“Por fin puedo ofrecer algo que protege de verdad el patrimonio de mis clientes. La tranquilidad que transmite FundedXam Capital es invaluable para consolidar relaciones a largo plazo.”
+— Luis M., Asesor Patrimonial y Coach Financiero (Foto profesional de Luis M.)
+CTA Principal: [Ver condiciones de colaboración] (lleva a la sección de Contacto con un formulario pre-cargado para asesores).
+Contenido de Soporte: Mencionar la disponibilidad de materiales de marketing y formación para asesores (esto enlazaría con la futura academia privada).
+11. HISTORIA Y PROPÓSITO (Humanizando la Marca)
+Objetivo: Conectar a nivel personal y emocional, explicando el "porqué" de la empresa.
+Título (H2): Nuestra Historia, Nuestro Compromiso: Proteger Tu Patrimonio.
+Texto: “Esto nació para proteger nuestro propio patrimonio familiar.”
+Raúl (CEO) y su hijo Xavi crearon FundedXam Capital tras años de ver cómo el mercado vendía riesgo disfrazado de oportunidad. Ahora, ofrecen lo que desearon tener: una estructura blindada que pone la seguridad del capital por encima de todo.
+Imagen: Fotografía profesional y sobria de Raúl y Xavi (no una imagen genérica). Debe transmitir seriedad y conexión.
+Botón: [Ver la visión completa] (Podría llevar a una página "Sobre Nosotros" más extensa o a un video de presentación).
+12. CTA FINAL (Cierre y Conversión)
+Objetivo: Último impulso para la acción.
+Título (H2): ¿Quieres Formar Parte de una Solución que Realmente Protege?
+Botones CTA (Claros y Diferenciados):
+📆 [Agendar reunión privada] (Integración directa con Calendly).
+📥 [Descargar dossier completo] (Lleva al formulario de la sección Descargables).
+13. FOOTER (Pie de Página)
+Elementos:
+Logo de FundedXam Capital.
+Enlaces Legales:
+Política de Privacidad
+Términos Legales
+Política de Cookies
+Enlaces Adicionales:
+Preguntas Frecuentes (FAQ)
+Contrato Descargable (enlaza al PDF del contrato real pignorado en la sección Descargables).
+Contacto Legal:
+Email y/o Teléfono específico para consultas legales.
+Redes Sociales: Iconos clickeables a LinkedIn, YouTube, Instagram, TikTok.
+Información de Contacto General: Email y teléfono principales.
+Copyright: © [Año Actual] FundedXam Capital. Todos los derechos reservados.
+FUNCIONALIDADES ADICIONALES CRÍTICAS (Implementación por el Desarrollador):
+Calculadora Interactiva: Desarrollar como se especificó en la sección 6.
+Calendly Integrado: Para agendar reuniones privadas.
+Firma Digital DocuSign: Preparar la integración para el futuro proceso de firma de contratos.
+Área Privada para Asesores y Clientes: Planificar su estructura (no es parte del lanzamiento inicial, pero es vital). Debe mostrar simulaciones del "panel real".
+CRM Conectado a Formularios: Esencial para la gestión de leads.
+Lead Magnet Automático: El sistema de descarga automática post-registro.
+Chat (Opcional): Considerar un chat en vivo para soporte inmediato si hay capacidad.
+
+
+
+
+
+
+
+
+
+PRIORIDADES
+
+imagen corporativa para arrancar con todo el social media (logo, brandbook en general). Colores y diseño de materiales importante (prioridad absoluta).
+abrir correos corporativos con el dominio trasladar el dominio desde correo xavi al correo corporativo (pertenencia).
+REALIZAR WEB. Web y dashboard del cliente es más prioritario que el nuestro. COOKIES - FOOTER (LEGAL…)
+
